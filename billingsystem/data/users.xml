@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<id>00U1</id>
+		<name>User1</name>
+		<type>EMPLOYEE</type>
+		<doj>12/12/2006</doj>
+	</user>
+	<user>
+		<id>00U2</id>
+		<name>User2</name>
+		<type>AFFILIATE</type>
+		<doj>18/01/2012</doj>
+	</user>
+	<user>
+		<id>00U3</id>
+		<name>User3</name>
+		<type>CUSTOMER</type>
+		<doj>07/06/2008</doj>
+	</user>
+	<user>
+		<id>00U4</id>
+		<name>User4</name>
+		<type>EMPLOYEE</type>
+		<doj>11/09/2011</doj>
+	</user>
+	<user>
+		<id>00U5</id>
+		<name>User5</name>
+		<type>CUSTOMER</type>
+		<doj>21/03/2012</doj>
+	</user>
+	<user>
+		<id>00U6</id>
+		<name>User6</name>
+		<type>AFFILIATE</type>
+		<doj>11/09/1998</doj>
+	</user>
+</users>

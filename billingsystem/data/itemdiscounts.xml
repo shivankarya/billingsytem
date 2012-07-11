@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemdiscounts>
+	<discount>
+		<usertype>EMPLOYEE</usertype>
+		<itemtype>BOOKS</itemtype>
+		<percentdiscount>30</percentdiscount>
+		<validfrom>0</validfrom>
+	</discount>
+	<discount>
+		<usertype>AFFILIATE</usertype>
+		<itemtype>BOOKS</itemtype>
+		<percentdiscount>10</percentdiscount>
+		<validfrom>0</validfrom>
+	</discount>
+	<discount>
+		<usertype>CUSTOMER</usertype>
+		<itemtype>BOOKS</itemtype>
+		<percentdiscount>5</percentdiscount>
+		<validfrom>2</validfrom>
+	</discount>
+	<discount>
+		<usertype>EMPLOYEE</usertype>
+		<itemtype>APPARELS</itemtype>
+		<percentdiscount>30</percentdiscount>
+		<validfrom>0</validfrom>
+	</discount>
+<!-- 	<discount>
+		<usertype>AFFILIATE</usertype>
+		<itemtype>APPARELS</itemtype>
+		<percentdiscount>10</percentdiscount>
+		<validfrom>0</validfrom>
+	</discount>
+ -->	<discount>
+		<usertype>CUSTOMER</usertype>
+		<itemtype>APPARELS</itemtype>
+		<percentdiscount>5</percentdiscount>
+		<validfrom>2</validfrom>
+	</discount>
+	<discount>
+		<usertype>EMPLOYEE</usertype>
+		<itemtype>OTHERS</itemtype>
+		<percentdiscount>30</percentdiscount>
+		<validfrom>0</validfrom>
+	</discount>
+	<discount>
+		<usertype>AFFILIATE</usertype>
+		<itemtype>OTHERS</itemtype>
+		<percentdiscount>10</percentdiscount>
+		<validfrom>0</validfrom>
+	</discount>
+	<discount>
+		<usertype>CUSTOMER</usertype>
+		<itemtype>OTHERS</itemtype>
+		<percentdiscount>5</percentdiscount>
+		<validfrom>2</validfrom>
+	</discount>
+</itemdiscounts>
+

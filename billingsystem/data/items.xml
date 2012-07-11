@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item>
+		<id>00I1</id>
+		<name>Item1</name>
+		<type>GROCERY</type>
+		<price>25</price>
+	</item>
+	<item>
+		<id>00I2</id>
+		<name>Item2</name>
+		<type>APPARELS</type>
+		<price>30</price>
+	</item>
+	<item>
+		<id>00I3</id>
+		<name>Item3</name>
+		<type>BOOKS</type>
+		<price>50</price>
+	</item>
+	<item>
+		<id>00I4</id>
+		<name>Item4</name>
+		<type>GROCERY</type>
+		<price>55</price>
+	</item>
+	<item>
+		<id>00I5</id>
+		<name>Item5</name>
+		<type>GROCERY</type>
+		<price>75</price>
+	</item>
+	<item>
+		<id>00I6</id>
+		<name>Item6</name>
+		<type>OTHERS</type>
+		<price>100</price>
+	</item>
+</items>
